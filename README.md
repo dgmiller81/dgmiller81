@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dgmiller81 (Dallas)
+- 👀 I’m interested in developing some automation scripts for random things (Stock screener, automation of daily tasks, sports, etc.)
+- 🌱 I’m currently learning stock tickers/screeners and other auotmation efforts.   Also been playing with the PinePhone and getting linux (Mobian) running with waydroid. 
+- 💞️ I’m looking to collaborate on anything that sparks an interest.
+- 📫 Reach me on here.
